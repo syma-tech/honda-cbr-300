@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+header{
+    font-family: 'Poppins', sans-serif;
+}
+/* ================= common css styles ends here ================= */
+.banner_background{
+    background-color: #264653;
+}
+.font-extra_small{
+    font-size: 14px;
+}
+.font-semibold{
+    font-size: 48px;
+}
+.btn_custom_color{
+    background-color: #E76F51;
+}
+/* ================= header css styles ends here ================= */
+img.grayscale_image {
+    filter: grayscale(100%);
+}
+.text_custom_color{
+    color: #E76F51;
+}
+.client_w{
+    width: 30%;
+}
+.client_img_wh{
+    width: 149px;
+    height: 149px;
+}
+.card_border{
+    border: 0 !important;
+}
+.bg_image{
+    background-image: url(../images/accessories-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.footer_overlay{
+    background-color: rgba(0, 0, 0, 0.863);
+}
+/* ================= main css styles ends here ================= */
